@@ -4,14 +4,14 @@
 
 
 ## Installation
+- webpack
+- babel
+- JS
+- Node.js
+- Nodemon
+- NPM
 
-
-## Features
-
-## How to Contribute
-n/a
-## Tests
-### GitHub Pages Link: 
+### Github Page: https://github.com/JoshysHERE/
 
 ### Github Repo Link:  https://github.com/JoshysHERE/Text-Edit
 
