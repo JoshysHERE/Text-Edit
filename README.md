@@ -1,7 +1,7 @@
-# joshy's text edit
+# joshy's text edit (week 19 challenge)
 
 ## Description
-In week 19 we were given the task to build a text editor in the web browser. This project will require the use of most of the packages we have covered in the boot camp so far. The application will be able to run offline. 
+In week 19 we were given the task to build a text editor in the web browser. This project will require the use of most of the packages we have covered in the boot camp so far. The application will be able to run offline. This will be deployed in heroku.
 
 ## Installation
 - webpack
